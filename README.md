@@ -1,6 +1,6 @@
 # Angular 4 Test
 
-![Alt Text](https://github.com/barrancocarlos/angular4-test/blobs/src/public/angular-card.png)
+![Alt Text](https://github.com/barrancocarlos/angular4-test/blob/master/src/public/angular-card.png)
 
 Simple Angular 4 app for CRUD operations
 
